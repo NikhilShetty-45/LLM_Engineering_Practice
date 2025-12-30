@@ -12,4 +12,6 @@ dependencies = [
     "ipython>=9.8.0",
     "langchain-openai>=1.1.4",
     "litellm>=1.80.10",
+    "networkx>=3.6.1",
+    "visualizer>=0.0.10",
 ]
